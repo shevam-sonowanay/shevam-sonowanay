@@ -34,5 +34,5 @@ A real-time, interruptible desktop AI voice assistant built with **Python** and 
 
 ### 📫 Connect With Me
 - **GitHub:** `@shevam-sonowanay`
-- **LinkedIn:** `linkedin.com/in/shevam-sonowanay-43833a421`
+- **LinkedIn:** `linkedin.com/in/shevam-sonowanay`
 - **Email:** `shevam009@gmail.com`
